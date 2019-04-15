@@ -1,0 +1,7 @@
+class Poker:
+    def __init__(point, color):
+        self._point = point
+        self._color = color
+    
+    def get_poker():
+        return [self._color, self._point]
